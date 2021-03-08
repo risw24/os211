@@ -13,3 +13,4 @@ ZCZC W01 30 L15 Assignment #5
 ZCZC W01 10 L16 Assignment #6
 ZCZC W01 30 L17 Assignment #7
 ZCZC W01 120 L18 Assignment #8
+ZCZC W02 100 L02 ZOOM related
