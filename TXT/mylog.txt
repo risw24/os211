@@ -15,3 +15,5 @@ ZCZC W01 30 L17 Assignment #7
 ZCZC W01 120 L18 Assignment #8
 ZCZC W02 100 L02 ZOOM related
 ZCZC W02 40 L10 Assignment (General) :get public key and myscript
+ZCZC W02 30 L17 Assignment #7 : Make top 10 list website in week 02
+ZCZC W02 60 L05 GSGS related : searching about cyber security
