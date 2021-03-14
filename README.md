@@ -6,3 +6,4 @@ Operating Systems 2021-1
 
 My Weekly assignment :
 * [W01 : Top Ten List](https://risw24.github.io/os211/W01/)
+* [W02 : Top Ten List](https://risw24.github.io/os211/W02/)
