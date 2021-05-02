@@ -37,3 +37,6 @@ ZCZC W05 200 L10 Assignment (General) : update top 10 website
 ZCZC W06 100 L02 ZOOM related
 ZCZC W06 60 L10 Assignment (General)
 ZCZC W06 200 L10 Assignment (General) : update top 10 website
+ZCZC W07 100 L02 ZOOM related
+ZCZC W07 30 L10 Assignment (General)
+ZCZC W07 180 L10 Assignment (General) : update top 10 website
