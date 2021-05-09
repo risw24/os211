@@ -1,6 +1,6 @@
 #!/bin/bash
 # Copyright (C) 2020-2021 Cicak Bin Kadal
-# https://www.youtube.com/watch?v=KAXK07ni9gU
+#https://www.youtube.com/watch?v=KAXK07ni9gU
 
 # This free document is distributed in the hope that it will be 
 # useful, but WITHOUT ANY WARRANTY; without even the implied 
@@ -17,7 +17,7 @@
 # You new to set "REC2" with your own Public-Key Identity!
 # Check it out with "gpg --list-key"
 
-REC2="cbk@dummy"
+REC2="53796268D76799325A0C39A264BC667CF184DF54"
 REC1="operatingsystems@vlsm.org"
 FILES="my*.asc my*.txt my*.sh"
 SHA="SHA256SUM"
